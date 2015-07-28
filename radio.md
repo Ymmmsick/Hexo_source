@@ -1,0 +1,1 @@
+<center> <iframe style="-moz-opacity:1; filter:alpha(opacity=100); opacity:1; background-color:#FFFFFF;" name="iframe_canvas" src="http://douban.fm/partner/baidu/doubanradio" scrolling="no" frameborder="0" width="420" height="188"></iframe> </center>
