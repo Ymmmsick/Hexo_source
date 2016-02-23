@@ -1,6 +1,6 @@
 title: 转： Xcode提示“expression is not assignable”
 date: 2015-07-28 22:46:54
-categories: IOS
+categories: iOS
 tags:
 ---
 		你的问题是：

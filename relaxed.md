@@ -33,4 +33,4 @@
 ![](http://7xko1o.com1.z0.glb.clouddn.com/life07.jpg)
 
 
-<embed style="-moz-opacity:1; filter:alpha(opacity=100); opacity:1; background-color:#000000;" src="http://www.xiami.com/widget/53702040_3686288,_360_260_CD5C5C_808080_1/multiPlayer.swf" type="application/x-shockwave-flash" width="360" height="120" wmode="transparent"></embed>
+<embed src="http://www.xiami.com/widget/53702040_1769512401,_350_150_c0c0c0_ffffff_1/multiPlayer.swf" type="application/x-shockwave-flash" width="350" height="150" wmode="opaque"></embed>

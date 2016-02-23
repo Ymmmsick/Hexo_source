@@ -1,6 +1,6 @@
 title: 为什么 iOS 开发中，控件一般为 weak 而不是 strong？
 date: 2015-08-10 23:42:38
-categories: IOS
+categories: iOS
 tags:
 ---
 参考自：[http://www.zhihu.com/question/29927614?sort=created](http://www.zhihu.com/question/29927614?sort=created)
